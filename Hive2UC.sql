@@ -1,6 +1,8 @@
 -- Databricks notebook source
--- MAGIC %md
+-- MAGIC %md-sandbox
 -- MAGIC # Migrating managed tables in HIVE to UC
+-- MAGIC 
+-- MAGIC <img src="https://github.com/alex-lopes-databricks/hive_2_uc/blob/master/HiveCatalogMigration.png?raw=true" style="margin-left:10px" width="600"/>
 -- MAGIC 
 -- MAGIC These steps assumes you have an external location and credentials configured to the target buckets for your environment.
 
