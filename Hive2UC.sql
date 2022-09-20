@@ -2,7 +2,7 @@
 -- MAGIC %md
 -- MAGIC # Migrating managed tables in HIVE to UC
 -- MAGIC 
--- MAGIC These steps assumes you have an external location and credentials configured to the target buckets for your environment
+-- MAGIC These steps assumes you have an external location and credentials configured to the target buckets for your environment.
 
 -- COMMAND ----------
 
